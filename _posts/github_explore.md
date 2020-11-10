@@ -1,15 +1,14 @@
-    ---
-    layout:     post
-    title:      gitHub探索
-    subtitle:   协议、使用
-    date:       2020-11-10
-    author:     Xie Chang
-    header-img: img/post-bg-article.jpg
-    catalog: true
-    tags:
-        - 标签1
-        - 标签2
-    ---
+---
+layout:     post
+title:      gitHub探索
+subtitle:   协议、使用
+date:       2020-11-10
+author:     Xie Chang
+header-img: img/post-bg-article.jpg
+catalog: true
+tags:
+    - github
+---
 # git探索
 ## git协议
 Git 可以使用四种主要的协议来传输资料：本地协议（Local），HTTP 协议，SSH（Secure Shell）协议及 Git 协议。在此，我将会根据搜集的资料，讨论哪些些协议及哪些情形应该使用（或避免使用）他们。
